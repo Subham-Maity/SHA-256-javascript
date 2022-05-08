@@ -1,5 +1,5 @@
 # Algo implement Writter - Subham 
-## I tried to implement SHA-256 algo in Js
+## I tried implementing SHA-256 in Js
 ## For more info about SHA-256 read my research documentation -> [Here](https://subham-maity.github.io/Blockchain-Book-vol2/)
 #### note: only desktop view (not for phone) 
 **********
